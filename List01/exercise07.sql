@@ -1,0 +1,7 @@
+
+USE vendas;
+ALTER TABLE Produto
+ADD COLUMN PESO FLOAT;
+
+ALTER TABLE Produto
+RENAME COLUMN PESO to Peso;
