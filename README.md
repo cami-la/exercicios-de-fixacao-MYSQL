@@ -15,11 +15,11 @@ Entretanto, estes exercícios podem ser aplicados para estudar outros BD (Micros
 No meu caso, para que eu conseguisse fazer os exercícios sem grandes problemas, conclui apenas o primeiro de três módulos do curso  [SQL com MySQL Server da Oracle](https://cursos.alura.com.br/formacao-oracle-mysql "SQL com MySQL Server da Oracle") .
 Existem alguns detalhes que não foram abordados nesta parte do curso citada, porém como recomendou o professor, você deve recorrer a fóruns, sites e a própria documentação do MYSQL.
 
-### 🚀 Tecnologia utilizada
+### :hammer_and_wrench: Tecnologia utilizada
 
 - [MYSQL](https://www.mysql.com/ "MYSQL")
 
-### :tw-2611: Fonte
+### :bulb: Fonte
 
 - Utilizei os arquivos disponibilizados pelo site da professora [**Eliane Brito**](http://www.ebrito.com.br "ebrito").
 - Consegui os arquvos em pdf pesquisando aleatóriamente no google, trocando apenas o número final da URL: <a href="http://www.ebrito.com.br/profa-elaine/EX1.pdf"> pdf 01</a> • <a href="http://www.ebrito.com.br/profa-elaine/EX2.pdf">pdf 02</a> • <a href="http://www.ebrito.com.br/profa-elaine/EX3.pdf">pdf 03</a> • <a href="http://www.ebrito.com.br/profa-elaine/EX4.pdf">pdf 04</a>
