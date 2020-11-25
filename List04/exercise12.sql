@@ -1,9 +1,9 @@
 
 USE escola;
-SELECT curso.nome, curso.inicio, COUNT(matricula.curso) AS qtde_alunos FROM curso
+SELECT curso.nome as curso, DATE_FORMAT(curso.inicio, '%m/%Y') AS inicio, COUNT(matricula.curso) AS qtde_matricula FROM curso
 RIGHT JOIN matricula
 ON curso.codigo = matricula.curso
-GROUP BY curso.nome
-HAVING MONTH(curso.inicio) = 01 AND YEAR(curso.inicio) = 2008; 
+WHERE DATE_FORMAT(curso.inicio, '%m/%Y') = '01/2008'
+GROUP BY curso.nome; 
 
 

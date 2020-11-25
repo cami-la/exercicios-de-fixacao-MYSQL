@@ -5,6 +5,7 @@ De qualquer maneira, segue a lógica: */
 
 USE escola;
 SELECT nome AS curso, inicio AS data_inicio FROM curso
-GROUP BY curso
-HAVING DATEDIFF(inicio, current_date()) > 0;
+WHERE DATEDIFF(inicio, current_date()) > 0
+GROUP BY curso;
+
 
