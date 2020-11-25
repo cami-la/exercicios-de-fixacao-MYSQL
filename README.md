@@ -25,11 +25,12 @@ Existem alguns detalhes que não foram abordados nesta parte do curso citada, ma
 - Consegui os arquvos em pdf pesquisando aleatóriamente no google, trocando apenas o número final da URL: <a href="http://www.ebrito.com.br/profa-elaine/EX1.pdf"> pdf 01</a> • <a href="http://www.ebrito.com.br/profa-elaine/EX2.pdf">pdf 02</a> • <a href="http://www.ebrito.com.br/profa-elaine/EX3.pdf">pdf 03</a> • <a href="http://www.ebrito.com.br/profa-elaine/EX4.pdf">pdf 04</a>
 
 ### 🤝 Contribuindo
-Esses repositório foi criado para fins de estudo, então contribua com ele.
+Este repositório foi criado para fins de estudo, então contribua com ele.
 Se te ajudei de alguma forma, ficarei feliz em receber uma mensagem e/ou e-mail. Será interessante saber um pouco sobre sua trajetória no mundo da programação e compartilhar a minha.
 Ah, tenho muitas dicas e preciso mais ainda!
 
 Se possível:
+
 ⭐️  Star o projeto
 
 🐛 Encontrar e relatar issues
