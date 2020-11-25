@@ -9,11 +9,11 @@
 ### :stop_sign: Pré-requisito
 
 - Você precisa ter instalado na sua máquina o [MYSQL + IDE (Workbench)](https://dev.mysql.com/downloads/mysql/ "MYSQL + IDE (Workbench)").
-Caso você prefira, os exercícios podem ser resolvidos por linha de comando, sendo assim, dispensa a necessidade de instalar a IDE. Porém, a instalação do BD é obrigatória.
+Caso você prefira, os exercícios podem ser resolvidos por linha de comando, sendo assim, dispensa a necessidade de instalar a IDE. A instalação do BD é obrigatória.
 - Ter noção básica de Banco de Dados, de preferência MYSQL.
 Entretanto, estes exercícios podem ser aplicados para estudar outros BD (Microsoft SQL Server, PostgreSQL, Oracle Database...).
-No meu caso, para que eu conseguisse fazer os exercícios sem grandes problemas, conclui apenas o primeiro de três módulos do curso  [SQL com MySQL Server da Oracle](https://cursos.alura.com.br/formacao-oracle-mysql "SQL com MySQL Server da Oracle") .
-Existem alguns detalhes que não foram abordados nesta parte do curso citada, porém como recomendou o professor, você deve recorrer a fóruns, sites e a própria documentação do MYSQL.
+No meu caso, para resolução dos exercícios sem grandes problemas, conclui apenas o primeiro de três módulos do curso  [SQL com MySQL Server da Oracle](https://cursos.alura.com.br/formacao-oracle-mysql "SQL com MySQL Server da Oracle") .
+Existem alguns detalhes que não foram abordados nesta parte do curso citada, mas como recomenda o professor, você deve recorrer a fóruns, sites e a própria documentação do MYSQL.
 
 ### :hammer_and_wrench: Tecnologia utilizada
 
@@ -31,6 +31,7 @@ Ah, tenho muitas dicas e preciso mais ainda!
 
 Se possível:
 ⭐️  Star o projeto
+
 🐛 Encontrar e relatar issues
 
 
