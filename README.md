@@ -3,7 +3,7 @@
 **Resolução de exercicios** propostos de Banco de Dados **MYSQL**, feito com conhecimentos prévios adquiridos do curso SQL com MySQL Server da Oracle da [**Aluna Cursos**](https://cursos.alura.com.br/formacao-oracle-mysql "Aluna Cursos") ministrado pelo instrutor[ **Victorino Vila**](https://www.linkedin.com/in/victorino-vila-1a160/ " Victorino Vila").
 
 <p align="center">
-<a href="https://github.com/cami-la/exercicios-de-fixacao-MYSQL/tree/master/List01">Lista 01</a> • <a href="https://github.com/cami-la/exercicios-de-fixacao-MYSQL/tree/master/List01">Lista 02</a> • <a href="https://github.com/cami-la/exercicios-de-fixacao-MYSQL/tree/master/List01">Lista 03</a> • <a href="https://github.com/cami-la/exercicios-de-fixacao-MYSQL/tree/master/List01">Lista 04</a>
+<a href="https://github.com/cami-la/exercicios-de-fixacao-MYSQL/tree/master/List01">Lista 01</a> • <a href="https://github.com/cami-la/exercicios-de-fixacao-MYSQL/tree/master/List02">Lista 02</a> • <a href="https://github.com/cami-la/exercicios-de-fixacao-MYSQL/tree/master/List03">Lista 03</a> • <a href="https://github.com/cami-la/exercicios-de-fixacao-MYSQL/tree/master/List04">Lista 04</a>
 <h6 align="center"> ✅ Todos os exercícios resolvidos  ✅ </h6></p>
 
 ### :stop_sign: Pré-requisito
